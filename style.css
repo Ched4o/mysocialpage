@@ -65,6 +65,8 @@ body,html {
 }
 
 .links-container .link {
+  text-decoration: none;
+  color: #c264c5;
   margin-top: 16px;
   width: 325px;
 
