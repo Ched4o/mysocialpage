@@ -106,3 +106,9 @@ body,html {
 .socials-container .social:hover {
   transform: scale(1);
 }
+
+footer > p {
+  font-size: small;
+  text-align: center;
+  color: #c264c5;
+}
