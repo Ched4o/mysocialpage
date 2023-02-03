@@ -107,8 +107,12 @@ body,html {
   transform: scale(1);
 }
 
+footer{
+margin-top 50px
+}
+
 footer > p {
-  font-size: small;
+  font-size: 11px;
   text-align: center;
   color: #c264c5;
 }
